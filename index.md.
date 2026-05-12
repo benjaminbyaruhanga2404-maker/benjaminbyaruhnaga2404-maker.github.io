@@ -1,0 +1,22 @@
+---
+layout: default
+title: Home
+nav_order: 1
+---
+
+# Benjamin Byaruhanga
+**Mechatronics & Robotics Engineering Student | Technical Prototyper**
+
+I am a first-year undergraduate student at **Uganda Christian University** in **Mukono, Uganda**. My interests lie in the intersection of mechanical systems and digital logic, with a specific interest in technical documentation and leadership within the engineering ecosystem.
+
+## **Professional & Academic Foundation**
+*   **Engineering Candidate:** Pursuing a Bachelor of Science in Mechatronics and Robotics Engineering.
+*   **Class Representative:** Serving as the student leader for the Mechatronics and Robotics cohort.
+*   **UIPE Member:** Student member of the **Uganda Institution of Professional Engineers**.
+*  
+## **Key Involvement**
+*   Active member of the **Computer Science and Engineering Association**.
+*   Member of the **Robotics and AI chapter** at Uganda Christian University.
+
+
+[View Detailed Skills & Experience]({% link experience.md %}){: .btn .btn-primary }
